@@ -23,3 +23,4 @@ public class Character{
         return damage;
     }
 }
+//This comment is added to test the update on GitHub
