@@ -24,3 +24,4 @@ public class Character{
     }
 }
 //This comment is added to test the update on GitHub
+//This comment is added to test the update on GitHub from school computer
